@@ -37,4 +37,3 @@ Evidence of Collaboration
 Rating: Good
 
 There is no author info section, however there appears to be a balanced contribution for all the collaborators.
-There is no author info section, however there appears to be a balanced contribution for all the collaborators.
