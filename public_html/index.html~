@@ -1,0 +1,57 @@
+<!DOCTYPE HTML>
+   <html>
+       <body style="color: white; background-image: url(./Application\ of\ Computer\ Benefits\ our\ society.jpg);">
+           <h1>
+               Application of Computer Benefits our Society
+           </h1>
+           <div id="introdcution">
+               <h2>
+                   Brief Introduction
+               </h2>
+               <p>
+                   Computers have definitely had a huge impact on society and the world will never be again the way it was before computers had transformed it. Many people might start by focusing on the benefits it could bring you personally. However, it offer a number of advantages for society, including many aspects.
+               </p>
+           </div>
+           <div>
+               <h2>
+                   Application of Comouter
+               </h2>
+               <p>
+                   Computer has played very important role in the sector of work. Without computer it is very difficult to perform our tasks. Large number of activities are dependent on computer in our daily life. The main three aspects will be discussed later.
+               <ul>
+        			<li>Banking and Financial compamny</li>
+        			<li><strong>Education</strong></li>
+        			<li>Industried</li>
+        			<li><strong>Entertainments</strong></li>
+        			<li>Communication</li>
+       				<li><strong>Healthcares</strong></li>
+    		   </ul>
+           <p>
+               This vedio will introduce the application of computer in detail
+           </p>
+           <iframe width="750" height="400" src="https://www.youtube.com/embed/ac7T3ocg9gk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+               <h3>
+                   Education
+               </h3>
+               <p>
+                    In the past 40 years, the application of computing has changed the way of education drastically. It also reduces the limitations of time, space and threshold of education.
+               </p>
+               <a href="education.html">education</a>
+               <h3>
+                   Entertainment
+               </h3>
+               <p>
+                   With the creation of the Internet and faster processors, file sharing and entertainment became a popular use for personal computers everywhere.
+               </p>
+               <a href="Entertainment.html">entertainment</a>
+               <h3>
+                   Healthcares
+               </h3>
+               <p>
+                    Continuous technological developments in healthcare have saved countless lives and improved the quality of life for even more. Not only has technology changed experiences for patients and their families, but it’s also had a huge impact on medical processes and the practices of healthcare professionals.
+                </p>
+                <a href="healthcare.html">entertainment</a>
+           </div>
+       </body>
+</html> 
+</!doctype>
