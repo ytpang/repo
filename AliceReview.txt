@@ -1,0 +1,11 @@
+Alice Review
+Interest of Content:Excellent
+  There is a wide range of content about different areas of computer science. Use of video to further explain concepts and relevant pictures to aid with explanation.
+Consistency and quality of visual presentation:Weak
+  Each page has different styling elements and lacks a cohesive theme, this could be improved by using one css sheet for the whole website.
+Quality of written presentation:Sound
+  Several spelling errors however the information is still relayed well in a way that is easy to understand.
+Validity of HTML: Very Good
+  Good use of hyperlinks and list, could work on incorporating links into text paragraphs such as on the index page. Also link to healthcare page does not work on index page and is mislabelled.
+Evidence of collaboration:Weak
+  No author information so impossible to grade based on that, also very few commits although almost equal on number per contributor. There is almost no evidence of working together as they have only uploaded their own files and have not made changes to other peoples files. The lack of cohesion over styling also leads me to believe that there was little to no communication on this front. Most of the uploading was done the day before or at the beginning of the practical. 
